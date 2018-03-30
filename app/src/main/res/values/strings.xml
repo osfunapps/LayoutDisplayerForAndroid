@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout Displayer</string>
+    <string name="accessibility_service_label">Display Layout</string>
+    <string name="app_description">Will print the layout of a requested application.
+    </string>
+    <string name="package_name">Pacakge Name (leave blank and click OK to load from code)</string>
+    <string name="ok">ok</string>
+</resources>
